@@ -248,4 +248,8 @@ elif main_menu == "🎒 行前準備":
         st.checkbox("防風防水外套 (Gore-Tex)")
         st.checkbox("攝影腳架 & 減光鏡")
         st.checkbox("相機備用電池 (低溫消耗極快)")
+
         st.checkbox("空位行李箱 (倫敦購物用)")
+
+
+
